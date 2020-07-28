@@ -1,0 +1,5 @@
+name: 'artifacts-upload-to-s3'
+description: ''
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
